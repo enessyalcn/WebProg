@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("bg.png");
+    background-image: url("dark-blue-aesthetic-galaxy-1ubxcztrappj0edc\ \(1\).jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -15,7 +15,7 @@ body{
 .main-div{
     display: flex;
     flex-direction: column;
-    background:rgba(0, 0, 0, 0.7);
+    background:rgba(0, 0, 0, 0.9);
     color: whitesmoke;
     min-width: 40vw;
     min-height: 40vh ;
