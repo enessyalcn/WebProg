@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("dark-blue-aesthetic-galaxy-1ubxcztrappj0edc\ \(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    background:rgba(0, 0, 0, 0.9);
+    color: whitesmoke;
+    min-width: 40vw;
+    min-height: 40vh ;
+    padding: 10px;
+}
+
+.box{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.btn{
+    margin-top: 20px;
+    background-color: whitesmoke;
+    color: black;
+    width: 180px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 1.1s;
+}
+
+.btn:hover{
+    color: whitesmoke;
+    background: none;
+    border: 1px solid whitesmoke;
+}
